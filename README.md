@@ -1,4 +1,4 @@
-snake-game using opengl in Haskell
+snake-game using OpenGL in Haskell
 ==========
 
 
