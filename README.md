@@ -1,6 +1,7 @@
 snake-game using opengl in Haskell
 ==========
 
+
 hackage link :
 
 http://hackage.haskell.org/package/snake-game
