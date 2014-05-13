@@ -1,6 +1,10 @@
 snake-game using opengl in Haskell
 ==========
 
+hackage link :
+
+http://hackage.haskell.org/package/snake-game
+
 ** About Game :
   
 This is a Snake Game where a BLIND YELLOW COMPUTER SNAKE is always hungry and runs all over the screen to swallow anything that comes in its ways, most of the times, YELLOW SQUARE BOXES (assuming its favorite food is inside each box). Whenever Snake eats 1 box, its length increases. 
